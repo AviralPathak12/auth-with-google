@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50b530c0-4243-4d47-9ec3-11aafd99c86e" name="Default Changelist" comment="" />
+    <list default="true" id="50b530c0-4243-4d47-9ec3-11aafd99c86e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,16 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\New folder\auth with google\auth_google\.idea" />
+      </set>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -125,6 +137,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="29GwpaX2UVW3oEWdkZqxPliRSIK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -166,7 +179,7 @@
       <updated>1652752913358</updated>
       <workItem from="1652752928048" duration="7135000" />
       <workItem from="1652934933301" duration="24878000" />
-      <workItem from="1653192584824" duration="9042000" />
+      <workItem from="1653192584824" duration="10082000" />
     </task>
     <servers />
   </component>
