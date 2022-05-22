@@ -1,5 +1,4 @@
 
-[Uploading cupidknot.sql…]()
 
 ![Screenshot (179)](https://user-images.githubusercontent.com/32727599/169685420-468c5381-bbf0-4841-ac9c-b021f5671673.png)
 ![Screenshot (180)](https://user-images.githubusercontent.com/32727599/169685423-26dda967-be44-4f50-a5f3-60201e926978.png)
